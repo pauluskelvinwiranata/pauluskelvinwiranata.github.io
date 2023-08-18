@@ -1,6 +1,20 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/kalkulator-berat-badan-ideal.jpeg",
+      "title": "Kalkulator Berat Badan",
+      "type": "HTML CSS JS",
+      "code": "https://github.com/pauluskelvinwiranata/kalkulator-berat-badan",
+      "demo": "https://pauluskelvinwiranata.github.io/kalkulator-berat-badan/"
+    },
+    {
+      "image": "assets/image/to-do-list.jpeg",
+      "title": "Todo-List",
+      "type": "HTML CSS JS",
+      "code": "https://pauluskelvinwiranata.github.io/to-do-list/",
+      "demo": "https://pauluskelvinwiranata.github.io/to-do-list/"
+    },
+    {
       "image": "assets/image/tebak-kata-acak.jpeg",
       "title": "Scramble Words",
       "type": "HTML CSS JS",
