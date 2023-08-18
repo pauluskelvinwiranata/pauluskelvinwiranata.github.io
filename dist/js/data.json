@@ -1,6 +1,13 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/tebak-kata-acak.jpeg",
+      "title": "Scramble Words",
+      "type": "HTML CSS JS",
+      "code": "https://github.com/pauluskelvinwiranata/tebak-kata-acak",
+      "demo": "https://pauluskelvinwiranata.github.io/tebak-kata-acak/"
+    },
+    {
       "image": "assets/image/shorten-link.jpeg",
       "title": "Shortening a Link",
       "type": "HTML CSS JS",

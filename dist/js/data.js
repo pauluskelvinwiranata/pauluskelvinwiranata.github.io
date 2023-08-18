@@ -40,6 +40,10 @@ xhttp.onreadystatechange = function () {
           </div>
         `;
     });
+    document.getElementById("countsimpleProjects").innerHTML =
+      data.simpleprojects.length;
+    document.getElementById("countcomplexProjects").innerHTML =
+      data.complexprojects.length;
   }
 };
 
