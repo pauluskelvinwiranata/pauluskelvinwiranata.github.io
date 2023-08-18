@@ -1,6 +1,13 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/shorten-link.jpeg",
+      "title": "Shortening a Link",
+      "type": "HTML CSS JS",
+      "code": "https://github.com/pauluskelvinwiranata/shorten-link",
+      "demo": "https://pauluskelvinwiranata.github.io/shorten-link/"
+    },
+    {
       "image": "assets/image/calendar.jpeg",
       "title": "Calendar",
       "type": "HTML CSS JS",
