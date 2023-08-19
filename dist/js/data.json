@@ -1,6 +1,13 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/kalkulator-bmi.jpeg",
+      "title": "Kalkulator BMI",
+      "type": "HTML CSS JS",
+      "code": "https://github.com/pauluskelvinwiranata/kalkulator-bmi",
+      "demo": "https://pauluskelvinwiranata.github.io/kalkulator-bmi/"
+    },
+    {
       "image": "assets/image/calculator-age.jpeg",
       "title": "Kalkulator Umur",
       "type": "HTML CSS JS",
