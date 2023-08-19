@@ -1,6 +1,13 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/manajemen-tugas.jpeg",
+      "title": "Manajemen Tugas",
+      "type": "HTML CSS JS",
+      "code": "https://github.com/pauluskelvinwiranata/manajemen-tugas",
+      "demo": "https://pauluskelvinwiranata.github.io/manajemen-tugas/"
+    },
+    {
       "image": "assets/image/kalkulator-kalori.jpeg",
       "title": "Kalkulator Kalori",
       "type": "HTML CSS JS",
