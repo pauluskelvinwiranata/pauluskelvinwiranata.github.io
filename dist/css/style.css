@@ -169,7 +169,6 @@ span::after {
 .projects .box-projects .card-projects .desc-projects h1 {
   font-size: 17px;
   margin-bottom: 5px;
-  text-transform: uppercase;
 }
 
 .projects .box-projects .card-projects .desc-projects .tech-stack {

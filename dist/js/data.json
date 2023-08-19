@@ -23,28 +23,28 @@
     },
     {
       "image": "assets/image/tebak-kata-acak.jpeg",
-      "title": "Scramble Words",
+      "title": "Tebak Kata Acak",
       "type": "HTML CSS JS",
       "code": "https://github.com/pauluskelvinwiranata/tebak-kata-acak",
       "demo": "https://pauluskelvinwiranata.github.io/tebak-kata-acak/"
     },
     {
       "image": "assets/image/shorten-link.jpeg",
-      "title": "Shortening a Link",
+      "title": "Persingkat Link",
       "type": "HTML CSS JS",
       "code": "https://github.com/pauluskelvinwiranata/shorten-link",
       "demo": "https://pauluskelvinwiranata.github.io/shorten-link/"
     },
     {
       "image": "assets/image/calendar.jpeg",
-      "title": "Calendar",
+      "title": "Kalender",
       "type": "HTML CSS JS",
       "code": "https://github.com/pauluskelvinwiranata/calendar",
       "demo": "https://pauluskelvinwiranata.github.io/calendar/"
     },
     {
       "image": "assets/image/weather-app.jpeg",
-      "title": "Weather App",
+      "title": "Aplikasi Cuaca",
       "type": "HTML CSS JS",
       "code": "https://github.com/pauluskelvinwiranata/weather-app",
       "demo": "https://pauluskelvinwiranata.github.io/weather-app/"
@@ -79,7 +79,7 @@
     },
     {
       "image": "assets/image/guess-number.jpeg",
-      "title": "Guess The Number",
+      "title": "Tebak Angka",
       "type": "HTML CSS JS",
       "code": "https://github.com/pauluskelvinwiranata/guess-number",
       "demo": "https://pauluskelvinwiranata.github.io/guess-number/"
