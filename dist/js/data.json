@@ -1,6 +1,13 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/kalkulator-kalori.jpeg",
+      "title": "Kalkulator Kalori",
+      "type": "HTML CSS JS",
+      "code": "https://github.com/pauluskelvinwiranata/kalkulator-kalori",
+      "demo": "https://pauluskelvinwiranata.github.io/kalkulator-kalori/"
+    },
+    {
       "image": "assets/image/kalkulator-bmi.jpeg",
       "title": "Kalkulator BMI",
       "type": "HTML CSS JS",
