@@ -13,3 +13,10 @@ window.addEventListener("scroll", () => {
   navBar.classList.toggle("scrolling-active", windowPosition);
   menuNav.classList.remove("menu-active");
 });
+
+window.addEventListener("load", function () {
+  const loader = document.querySelector(".loader-wrapper");
+  setTimeout(function () {
+    loader.style.display = "none";
+  }, 3000);
+});
