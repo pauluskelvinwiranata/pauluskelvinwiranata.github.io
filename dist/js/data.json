@@ -1,6 +1,13 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/calculator-age.jpeg",
+      "title": "Kalkulator Umur",
+      "type": "HTML CSS JS",
+      "code": "https://github.com/pauluskelvinwiranata/calculator-age",
+      "demo": "https://pauluskelvinwiranata.github.io/calculator-age/"
+    },
+    {
       "image": "assets/image/kalkulator-berat-badan-ideal.jpeg",
       "title": "Kalkulator Berat Badan",
       "type": "HTML CSS JS",
@@ -11,7 +18,7 @@
       "image": "assets/image/to-do-list.jpeg",
       "title": "Todo-List",
       "type": "HTML CSS JS",
-      "code": "https://pauluskelvinwiranata.github.io/to-do-list/",
+      "code": "https://github.com/pauluskelvinwiranata/to-do-list",
       "demo": "https://pauluskelvinwiranata.github.io/to-do-list/"
     },
     {
