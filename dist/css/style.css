@@ -195,7 +195,7 @@ span::after {
 }
 
 .projects .box-projects .card-projects .desc-projects .tech-stack p {
-  font-size: 11px;
+  font-size: 9px;
   width: max-content;
   padding: 0 10px;
   background-color: #212226;
@@ -219,7 +219,6 @@ span::after {
   font-size: 14px;
   margin-bottom: 5px;
   line-height: 30px;
-  text-align: justify;
 }
 
 .projects .box-projects .card-projects .desc-projects .cta {

@@ -1,6 +1,14 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/kelola-keuangan.jpeg",
+      "title": "Aplikasi Pengelola Keuangan",
+      "desc": "Membuat aplikasi pengelola keuangan pribadi, dimana aplikasi yang dimaksud dapat mengatur pengeluaran, pendapatan, dan juga saldo keseluruhan.",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/kelola-keuangan",
+      "demo": "https://pauluskelvinwiranata.github.io/kelola-keuangan/"
+    },
+    {
       "image": "assets/image/kartu-ucapan-elektronik.jpeg",
       "title": "Kartu Ucapan Elektronik",
       "desc": "Membuat kartu ucapan elektronik sederhana untuk diberikan kepada teman, orang terdekat dan keluarga, untuk mengucapkan ucapan selamat tahun dan ucapan selamat lainnya.",
