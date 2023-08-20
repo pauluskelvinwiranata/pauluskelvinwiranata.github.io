@@ -195,8 +195,7 @@ span::after {
 }
 
 .projects .box-projects .card-projects .desc-projects .tech-stack p {
-  font-weight: bold;
-  font-size: 10px;
+  font-size: 11px;
   width: max-content;
   padding: 0 10px;
   background-color: #212226;
@@ -205,12 +204,15 @@ span::after {
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
   -o-border-radius: 30px;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 .projects .box-projects .card-projects .desc-projects h1 {
   font-size: 20px;
   margin-bottom: 5px;
+  text-align: center;
 }
 
 .projects .box-projects .card-projects .desc-projects p {
@@ -232,7 +234,7 @@ span::after {
   background-color: #525fe1;
   border: 0;
   outline: 0;
-  width: 50px;
+  width: 35px;
   padding: 5px;
   border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -389,7 +391,7 @@ textarea {
   }
 
   .projects .box-projects .card-projects .desc-projects h1 {
-    font-size: 17px;
+    font-size: 15px;
   }
 
   .projects .box-projects .card-projects .desc-projects p {
@@ -405,12 +407,12 @@ textarea {
   }
 
   .hero .box-hero p:nth-child(3) {
-    font-size: 14px;
+    font-size: 13px;
     text-align: center;
   }
 
   .about .box-about .box:nth-child(1) p {
-    font-size: 14px;
+    font-size: 13px;
   }
 
   .about .box-about .box:nth-child(2) .tech-stack .list-tech-stack i {
