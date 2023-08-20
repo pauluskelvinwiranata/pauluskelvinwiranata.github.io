@@ -1,6 +1,13 @@
 {
   "simpleprojects": [
     {
+      "image": "assets/image/kartu-ucapan-elektronik.jpeg",
+      "title": "Kartu Ucapan Elektronik",
+      "type": "HTML CSS JS",
+      "code": "https://github.com/pauluskelvinwiranata/kartu-ucapan-elektronik",
+      "demo": "https://pauluskelvinwiranata.github.io/kartu-ucapan-elektronik/"
+    },
+    {
       "image": "assets/image/manajemen-tugas.jpeg",
       "title": "Manajemen Tugas",
       "type": "HTML CSS JS",
