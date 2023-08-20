@@ -343,10 +343,8 @@ textarea {
   .projects h2 {
     font-size: 15px;
   }
-
-  .projects .box-projects .card-projects .desc-projects p {
-    line-height: normal;
-    font-size: 10px;
+  .projects .box-projects .card-projects .desc-projects .text-desc {
+    display: none;
   }
 
   .about .box-about .box h2 {
