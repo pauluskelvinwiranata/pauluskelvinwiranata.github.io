@@ -41,7 +41,7 @@
       "demo": "https://pauluskelvinwiranata.github.io/kalkulator-bmi/"
     },
     {
-      "image": "assets/image/calculator-age.jpeg",
+      "image": "assets/image/kalkulator-umur.jpeg",
       "title": "Kalkulator Umur",
       "desc": "Membuat kalkulator untuk menghitung umur seseorang sesuai dengan tanggal lahir seseorang. Kalkulator akan memberi informasi umur seseorang dalam tahun, bulan, minggu, dan hari.",
       "type": "HTML, CSS, & JavaScript",
