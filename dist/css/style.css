@@ -7,6 +7,10 @@
   font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
 }
+body {
+  background-color: #212226;
+  color: #fff;
+}
 
 .container {
   width: 80%;
@@ -36,12 +40,16 @@
 
 .navbar .box-navbar .menu li a {
   text-decoration: none;
-  color: #000;
+  color: #fff;
   transition: 0.3s;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -ms-transition: 0.3s;
   -o-transition: 0.3s;
+}
+
+.navbar .box-navbar .menu li a:hover {
+  color: #525fe1;
 }
 
 .navbar .box-navbar .menu-bar {
@@ -58,7 +66,6 @@
   display: flex;
   align-items: center;
   text-align: center;
-  background-color: #dfdbd8;
 }
 
 .hero .box-hero p:nth-child(2) {
@@ -71,7 +78,7 @@
 .hero .box-hero p:nth-child(3) {
   line-height: 2;
   margin-bottom: 20px;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .hero .box-hero .box-socials {
@@ -82,7 +89,7 @@
 }
 
 .hero .box-hero .box-socials a i {
-  color: #000;
+  color: #fff;
   font-size: 40px;
 }
 
@@ -93,40 +100,52 @@
 
 .about .box-about {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   gap: 30px;
 }
 
 .about .box-about .box:nth-child(1) p {
-  font-size: 14px;
-  text-align: center;
+  font-size: 16px;
+  text-align: left;
   margin-bottom: 20px;
+  line-height: 2;
+  text-align: center;
 }
 
 .about .box-about .box h2 {
-  position: relative;
-  padding-left: 50px;
   margin-bottom: 20px;
-}
-
-.about .box-about .box h2::before {
-  content: "";
-  position: absolute;
-  width: 40px;
-  height: 2px;
-  background-color: #000;
-  top: 50%;
-  left: 0;
+  text-align: center;
 }
 
 .about .box-about .box:nth-child(2) .tech-stack {
   display: flex;
-  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
 }
 
-.about .box-about .box:nth-child(2) .tech-stack i {
-  font-size: 30px;
+.about .box-about .box:nth-child(2) .tech-stack .list-tech-stack {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.about .box-about .box:nth-child(2) .tech-stack .list-tech-stack i {
+  font-size: 50px;
   cursor: pointer;
+  transition: all ease 0.3s;
+  -webkit-transition: all ease 0.3s;
+  -moz-transition: all ease 0.3s;
+  -ms-transition: all ease 0.3s;
+  -o-transition: all ease 0.3s;
+}
+
+.about .box-about .box:nth-child(2) .tech-stack .list-tech-stack i:hover {
+  color: #525fe1;
 }
 
 .projects {
@@ -150,22 +169,43 @@ span::after {
 
 .projects .box-projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   align-items: center;
   gap: 30px;
 }
 
 .projects .box-projects .card-projects {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  width: 100%;
+  background-color: #2f2e34;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .projects .box-projects .card-projects .desc-projects {
-  padding: 0 15px 15px 15px;
+  padding: 5px 20px 20px 20px;
 }
 
 .projects .box-projects .card-projects img {
   width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.projects .box-projects .card-projects .desc-projects .tech-stack p {
+  font-weight: bold;
+  font-size: 10px;
+  width: max-content;
+  padding: 0 10px;
+  background-color: #212226;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .projects .box-projects .card-projects .desc-projects h1 {
@@ -178,11 +218,6 @@ span::after {
   margin-bottom: 5px;
   line-height: 30px;
   text-align: justify;
-}
-
-.projects .box-projects .card-projects .desc-projects .tech-stack {
-  color: #333;
-  font-weight: bold;
 }
 
 .projects .box-projects .card-projects .desc-projects .cta {
@@ -211,7 +246,6 @@ span::after {
 .contact {
   width: 100%;
   padding: 50px 0 50px 0;
-  background-color: #dfdbd8;
 }
 
 .contact .box-contact {
@@ -259,6 +293,7 @@ textarea {
 .footer {
   padding: 20px;
   text-align: center;
+  font-size: 14px;
 }
 
 .loader-wrapper {
@@ -369,8 +404,22 @@ textarea {
     font-size: 20px;
   }
 
+  .hero .box-hero p:nth-child(3) {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .about .box-about .box:nth-child(1) p {
+    font-size: 14px;
+  }
+
+  .about .box-about .box:nth-child(2) .tech-stack .list-tech-stack i {
+    font-size: 30px;
+    cursor: pointer;
+  }
+
   .footer p {
-    font-size: 11px;
+    font-size: 12px;
   }
 }
 @media screen and (max-width: 320px) {

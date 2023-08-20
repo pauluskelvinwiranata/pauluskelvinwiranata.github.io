@@ -8,9 +8,11 @@ xhttp.onreadystatechange = function () {
             <div class="card-projects">
             <img src="${e.image}" />
             <div class="desc-projects">
+            <div class="tech-stack">
+             <p>${e.type}</p>
+            </div>
               <h1>${e.title}</h1>
               <p class="text-desc">${e.desc}</p>
-              <p class="tech-stack">Dibuat dengan : ${e.type}</p>
               <div class="cta">
                 <a href="${e.code}" target="_blank"><button><i class="fa-solid fa-code"></i></button></a>
                 <a href="${e.demo}" target="_blank"><button><i class="fa-solid fa-eye"></i></button></a>
