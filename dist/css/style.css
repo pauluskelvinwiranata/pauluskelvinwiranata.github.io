@@ -131,6 +131,7 @@
 
 .projects {
   padding: 50px 0 50px 0;
+  width: 100%;
 }
 
 .projects h2 {
@@ -149,13 +150,14 @@ span::after {
 
 .projects .box-projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   align-items: center;
   gap: 30px;
 }
 
 .projects .box-projects .card-projects {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 100%;
 }
 
 .projects .box-projects .card-projects .desc-projects {
@@ -167,32 +169,16 @@ span::after {
 }
 
 .projects .box-projects .card-projects .desc-projects h1 {
-  font-size: 17px;
+  font-size: 20px;
   margin-bottom: 5px;
 }
 
-.projects .box-projects .card-projects .desc-projects .tech-stack {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 5px;
-  font-size: 11px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  width: max-content;
-  color: #000;
-  padding: 3px 7px;
-  border-radius: 20px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  -ms-border-radius: 20px;
-  -o-border-radius: 20px;
+.projects .box-projects .card-projects .desc-projects p {
+  font-size: 14px;
   margin-bottom: 5px;
+  line-height: 30px;
 }
 
-.projects .box-projects .card-projects .desc-projects .tech-stack i {
-  color: #557a46;
-  font-size: 10px;
-}
 
 .projects .box-projects .card-projects .desc-projects .cta {
   display: flex;
@@ -352,12 +338,21 @@ textarea {
 }
 
 @media screen and (max-width: 576px) {
+  .projects .box-projects {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
   .projects h2 {
     font-size: 15px;
   }
-  .projects .box-projects .card-projects .desc-projects h1 {
-    font-size: 13px;
+
+  .projects .box-projects .card-projects .desc-projects p {
+   line-height: normal;
   }
+
+   .projects .box-projects .card-projects .desc-projects .tech-stack {
+  font-size: 11px;
+  }
+
   .about .box-about .box h2 {
     font-size: 15px;
   }
