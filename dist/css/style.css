@@ -179,7 +179,6 @@ span::after {
   line-height: 30px;
 }
 
-
 .projects .box-projects .card-projects .desc-projects .cta {
   display: flex;
   gap: 10px;
@@ -346,11 +345,8 @@ textarea {
   }
 
   .projects .box-projects .card-projects .desc-projects p {
-   line-height: normal;
-  }
-
-   .projects .box-projects .card-projects .desc-projects .tech-stack {
-  font-size: 11px;
+    line-height: normal;
+    font-size: 12px;
   }
 
   .about .box-about .box h2 {
