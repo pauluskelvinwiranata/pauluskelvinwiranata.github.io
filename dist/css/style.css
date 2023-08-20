@@ -201,7 +201,9 @@ span::after {
   background-color: #212226;
   margin-top: 7px;
   padding: 0 10px;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
 .projects .box-projects .card-projects .desc-projects h1 {
@@ -350,6 +352,10 @@ textarea {
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     background-color: white;
+  }
+
+  .navbar .box-navbar .menu.menu-active li a {
+    color: #000;
   }
 
   .navbar .box-navbar .menu.menu-active {
