@@ -9,7 +9,6 @@ xhttp.onreadystatechange = function () {
             <img src="${e.image}" />
             <div class="desc-projects">
               <h1>${e.title}</h1>
-              <p class="text-desc">${e.desc}</p>
               <div class="cta">
                 <a href="${e.code}" target="_blank"><button><i class="fa-solid fa-code"></i></button></a>
                 <a href="${e.demo}" target="_blank"><button><i class="fa-solid fa-eye"></i></button></a>
@@ -25,7 +24,6 @@ xhttp.onreadystatechange = function () {
             <img src="${e.image}" />
             <div class="desc-projects">
               <h1>${e.title}</h1>
-              <p class="text-desc">${e.desc}</p>
               <div class="cta">
                 <a href=""><button disabled><i class="fa-solid fa-code"></i></button></a>
                 <a href=""><button disabled><i class="fa-solid fa-eye"></i></button></a>

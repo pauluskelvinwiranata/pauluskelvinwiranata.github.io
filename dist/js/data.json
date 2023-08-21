@@ -175,6 +175,14 @@
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/generate-random-jokes",
       "demo": "https://pauluskelvinwiranata.github.io/generate-random-jokes/"
+    },
+    {
+      "image": "assets/image/validasi-formulir.jpeg",
+      "title": "Validasi Formulir",
+      "desc": "Membuat aplikasi untuk menghasilkan kalimat lelucon acak dengan memanfaatkan penggunaan API random lelucon untuk menghasilkan kalimat lelucon secara acak.",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/validasi-formulir",
+      "demo": "https://pauluskelvinwiranata.github.io/validasi-formulir/"
     }
   ],
   "complexprojects": [
