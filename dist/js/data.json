@@ -183,6 +183,14 @@
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/validasi-formulir",
       "demo": "https://pauluskelvinwiranata.github.io/validasi-formulir/"
+    },
+	{
+      "image": "assets/image/paint.jpeg",
+      "title": "Paint",
+      "desc": "",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/paint",
+      "demo": "https://pauluskelvinwiranata.github.io/paint/"
     }
   ],
   "complexprojects": [
