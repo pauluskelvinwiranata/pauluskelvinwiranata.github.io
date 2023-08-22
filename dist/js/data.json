@@ -191,6 +191,14 @@
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/paint",
       "demo": "https://pauluskelvinwiranata.github.io/paint/"
+    },
+	{
+      "image": "assets/image/click-me.jpeg",
+      "title": "Click Me",
+      "desc": "",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/click-me",
+      "demo": "https://pauluskelvinwiranata.github.io/click-me/"
     }
   ],
   "complexprojects": [

@@ -25,8 +25,8 @@ xhttp.onreadystatechange = function () {
             <div class="desc-projects">
               <h1>${e.title}</h1>
               <div class="cta">
-                <a href=""><button disabled><i class="fa-solid fa-code"></i></button></a>
-                <a href=""><button disabled><i class="fa-solid fa-eye"></i></button></a>
+                <button id="disabledCode"><i class="fa-solid fa-code"></i></button>
+                <button id="disabledDemo"><i class="fa-solid fa-eye"></i></button>
               </div>
             </div>
           </div>

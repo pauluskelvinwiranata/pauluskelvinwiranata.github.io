@@ -10,7 +10,9 @@
 body {
   background-color: #212226;
   color: #fff;
+   transition: background-color 0.3s, color 0.3s;
 }
+
 
 .container {
   width: 80%;
@@ -142,6 +144,10 @@ body {
   -moz-transition: all ease 0.3s;
   -ms-transition: all ease 0.3s;
   -o-transition: all ease 0.3s;
+}
+
+.about .box-about .box:nth-child(2) .tech-stack .list-tech-stack p {
+  font-size: 14px;
 }
 
 .about .box-about .box:nth-child(2) .tech-stack .list-tech-stack i:hover {
