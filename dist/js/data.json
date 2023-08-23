@@ -17,6 +17,14 @@
       "demo": "https://pauluskelvinwiranata.github.io/kartu-ucapan-elektronik/"
     },
 	{
+      "image": "assets/image/kuis-sederhana.jpeg",
+      "title": "Kuis Sederhana",
+      "desc": "",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/kuis-sederhana",
+      "demo": "https://pauluskelvinwiranata.github.io/kuis-sederhana/"
+    },
+	{
       "image": "assets/image/countdown-event.jpeg",
       "title": "Countdown Event",
       "desc": "",
