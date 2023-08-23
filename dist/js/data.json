@@ -16,6 +16,14 @@
       "code": "https://github.com/pauluskelvinwiranata/kartu-ucapan-elektronik",
       "demo": "https://pauluskelvinwiranata.github.io/kartu-ucapan-elektronik/"
     },
+	{
+      "image": "assets/image/countdown-event.jpeg",
+      "title": "Countdown Event",
+      "desc": "",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/countdown-event",
+      "demo": "https://pauluskelvinwiranata.github.io/countdown-event/"
+    },
     {
       "image": "assets/image/aplikasi-manajemen-tugas.jpeg",
       "title": "Manajemen Tugas",
