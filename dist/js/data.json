@@ -3,7 +3,6 @@
     {
       "image": "assets/image/kelola-keuangan.jpeg",
       "title": "Aplikasi Pengelola Keuangan",
-      "desc": "Membuat aplikasi pengelola keuangan pribadi, dimana aplikasi yang dimaksud dapat mengatur pengeluaran, pendapatan, dan juga saldo keseluruhan.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kelola-keuangan",
       "demo": "https://pauluskelvinwiranata.github.io/kelola-keuangan/"
@@ -11,7 +10,6 @@
     {
       "image": "assets/image/kartu-ucapan-elektronik.jpeg",
       "title": "Kartu Ucapan Elektronik",
-      "desc": "Membuat kartu ucapan elektronik sederhana untuk diberikan kepada teman, orang terdekat dan keluarga, untuk mengucapkan ucapan selamat tahun dan ucapan selamat lainnya.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kartu-ucapan-elektronik",
       "demo": "https://pauluskelvinwiranata.github.io/kartu-ucapan-elektronik/"
@@ -19,7 +17,6 @@
 	{
       "image": "assets/image/kuis-sederhana.jpeg",
       "title": "Kuis Sederhana",
-      "desc": "",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kuis-sederhana",
       "demo": "https://pauluskelvinwiranata.github.io/kuis-sederhana/"
@@ -27,7 +24,6 @@
 	{
       "image": "assets/image/countdown-event.jpeg",
       "title": "Countdown Event",
-      "desc": "",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/countdown-event",
       "demo": "https://pauluskelvinwiranata.github.io/countdown-event/"
@@ -35,7 +31,6 @@
     {
       "image": "assets/image/aplikasi-manajemen-tugas.jpeg",
       "title": "Manajemen Tugas",
-      "desc": "Membuat aplikasi manajemen tugas sederhana untuk mengelola tugas dengan baik. Aplikasi yang dimaksud dapat mengelola tugas, deadline, dan prioritas dari tugas yang dimaksud.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/manajemen-tugas",
       "demo": "https://pauluskelvinwiranata.github.io/manajemen-tugas/"
@@ -43,7 +38,6 @@
     {
       "image": "assets/image/kalkulator-kalori.jpeg",
       "title": "Kalkulator Kalori",
-      "desc": "Membuat kalkulator untuk menghitung kebutuhan kalori dengan menggunakan rumus dan juga memberikan informasi kebutuhan kalori untuk melakukan penurunan berat badan.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kalkulator-kalori",
       "demo": "https://pauluskelvinwiranata.github.io/kalkulator-kalori/"
@@ -51,7 +45,6 @@
     {
       "image": "assets/image/kalkulator-bmi.jpeg",
       "title": "Kalkulator BMI",
-      "desc": "Membuat kalkulator BMI atau biasa disebut dengan kalkulator penghitung indeks massa tubuh, dimana memberikan informasi apakah berat badan termasuk kurang, normal, dan obesitas.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kalkulator-bmi",
       "demo": "https://pauluskelvinwiranata.github.io/kalkulator-bmi/"
@@ -59,7 +52,6 @@
     {
       "image": "assets/image/kalkulator-umur.jpeg",
       "title": "Kalkulator Umur",
-      "desc": "Membuat kalkulator untuk menghitung umur seseorang sesuai dengan tanggal lahir seseorang. Kalkulator akan memberi informasi umur seseorang dalam tahun, bulan, minggu, dan hari.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/calculator-age",
       "demo": "https://pauluskelvinwiranata.github.io/calculator-age/"
@@ -67,7 +59,6 @@
     {
       "image": "assets/image/kalkulator-berat-badan-ideal.jpeg",
       "title": "Kalkulator Berat Badan",
-      "desc": "Membuat kalkulator untuk menghitung berat badan ideal berdasarkan jenis kelamin dan tinggi badan dengan menggunakan beberapa rumus yang umum digunakan.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kalkulator-berat-badan",
       "demo": "https://pauluskelvinwiranata.github.io/kalkulator-berat-badan/"
@@ -75,7 +66,6 @@
     {
       "image": "assets/image/to-do-list.jpeg",
       "title": "Todo-List",
-      "desc": "Membuat aplikasi todo-list untuk mencatat apa saja tugas yang akan dilakukan, menandai tugas yang sudah diselesaikan, dan juga menghapus tugas yang sudah tidak diperlukan lagi.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/to-do-list",
       "demo": "https://pauluskelvinwiranata.github.io/to-do-list/"
@@ -83,7 +73,6 @@
     {
       "image": "assets/image/tebak-kata-acak.jpeg",
       "title": "Tebak Kata Acak",
-      "desc": "Membuat permainan tebak kata acak, dimana permainan dimulai dengan program yang menampilkan kata acak yang kemudian user diminta menebak kata acak tersebut dengan benar.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/tebak-kata-acak",
       "demo": "https://pauluskelvinwiranata.github.io/tebak-kata-acak/"
@@ -91,7 +80,6 @@
     {
       "image": "assets/image/shorten-link.jpeg",
       "title": "Persingkat Link",
-      "desc": "Membuat aplikasi mempersingkat link dengan menggunakan API, dimana aplikasi dapat membantu pengguna untuk mempersingkat link yang panjang menjadi lebih singkat. ",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/shorten-link",
       "demo": "https://pauluskelvinwiranata.github.io/shorten-link/"
@@ -99,23 +87,13 @@
     {
       "image": "assets/image/calendar.jpeg",
       "title": "Kalender",
-      "desc": "Membuat kalender sederhana untuk menampilkan informasi tanggal, hari, bulan dan tahun saat program atau aplikasi dibuka atau dijalankan oleh pengguna.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/calendar",
       "demo": "https://pauluskelvinwiranata.github.io/calendar/"
     },
     {
-      "image": "assets/image/weather-app.jpeg",
-      "title": "Aplikasi Cuaca",
-      "desc": "Membuat aplikasi untuk mengetahui keadan cuaca dari kota yang ingin dicari menggunakan API openweathermap.org, dimana aplikasi akan menampilkan informasi keadaan dari kota yang dicari.",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/weather-app",
-      "demo": "https://pauluskelvinwiranata.github.io/weather-app/"
-    },
-    {
       "image": "assets/image/counting-word.jpeg",
       "title": "Word Counter",
-      "desc": "Membuat aplikasi word counter atau biasa juga disebut penghitung kata. Aplikasi akan menampilkan informasi berapa jumlah kata yang diketik oleh pengguna.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/word-counting",
       "demo": "https://pauluskelvinwiranata.github.io/word-counting/"
@@ -123,7 +101,6 @@
     {
       "image": "assets/image/typing-test.jpeg",
       "title": "Typing Test",
-      "desc": "Membuat aplikasi mengitung kecepatan mengetik seseorang dengan memanfaatkan API untuk menghasilkan kalimat yang digunakan untuk menguji kecepatan mengetik.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/typing-test",
       "demo": "https://pauluskelvinwiranata.github.io/typing-test/"
@@ -131,7 +108,6 @@
     {
       "image": "assets/image/tic-tac-toe.jpeg",
       "title": "Tic-Tac-Toe",
-      "desc": "Membuat permainan Tic-Tac-Toe sederhana untuk dua player yaitu X dan O karena tidak melawan komputer. Permainan akan selesai jika salah satu player menemukan pattern yang benar.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/tic-tac-toe",
       "demo": "https://pauluskelvinwiranata.github.io/tic-tac-toe/"
@@ -139,7 +115,6 @@
 	{
       "image": "assets/image/hex-color.jpeg",
       "title": "Hex Color Generator",
-      "desc": "",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/hex-color",
       "demo": "https://pauluskelvinwiranata.github.io/hex-color/"
@@ -147,7 +122,6 @@
     {
       "image": "assets/image/rgb-picker.jpeg",
       "title": "RGB Color Generator",
-      "desc": "Membuat aplikasi pemilih warna rgb menggunakan slider untuk menentukan nilai dari warna RGB yang akan digunakan, aplikasi yang dimaksud juga memiliki fitur copy nilai rgb nya.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/rgb-picker",
       "demo": "https://pauluskelvinwiranata.github.io/rgb-picker/"
@@ -155,31 +129,27 @@
     {
       "image": "assets/image/guess-number.jpeg",
       "title": "Tebak Angka",
-      "desc": "Membuat permainan tebak angka yang dipikiran oleh komputer, seseorang harus menebak berapa angka yang dipikiran oleh komputer secara random atau acak hingga benar.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/guess-number",
       "demo": "https://pauluskelvinwiranata.github.io/guess-number/"
     },
     {
-      "image": "assets/image/rock-paper-scissors.jpeg",
+      "image": "assets/image/gunting-batu-kertas.jpeg",
       "title": "Rock Paper Scissors",
-      "desc": "Membuat permainan batu gunting kertas melawan komputer, permainan dimulai dengan seseorang memilih batu, gunting atau kertas yang kemudian dibandingkan dengan pilihan komputer.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/gunting-batu-kertas",
       "demo": "https://pauluskelvinwiranata.github.io/gunting-batu-kertas/"
     },
     {
       "image": "assets/image/generate-password.jpeg",
-      "title": "Generate Random Password",
-      "desc": "Membuat aplikasi penghasil password secara acak menggunakan kombinasi dari angka, simbol, huruf besar dan juga huruf kecil. Aplikasi yang dimaksud juga memiliki fitur copy password.",
+      "title": "Random Password Generator",
       "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/generate-random-password",
-      "demo": "https://pauluskelvinwiranata.github.io/generate-random-password/"
+      "code": "https://github.com/pauluskelvinwiranata/random-password-generator",
+      "demo": "https://pauluskelvinwiranata.github.io/random-password-generator/"
     },
     {
       "image": "assets/image/generate-quote.jpeg",
       "title": "Generate Random Quotes",
-      "desc": "Membuat aplikasi untuk menghasilkan kata-kata bijak dengan memanfaatkan penggunaan API random quotes untuk menghasilkan kata-kata bijak yang dimaksud. ",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/generate-random-quotes",
       "demo": "https://pauluskelvinwiranata.github.io/generate-random-quotes/"
@@ -187,7 +157,6 @@
     {
       "image": "assets/image/generate-qrcode.jpeg",
       "title": "Generate QR Code",
-      "desc": "Membuat aplikasi untuk mengubah teks atau link menjadi barcode dengan memanfaatkan penggunaan API QR Code untuk menghasilkan sebuah QR Code.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/generate-qrcode",
       "demo": "https://pauluskelvinwiranata.github.io/generate-qrcode/"
@@ -195,7 +164,6 @@
     {
       "image": "assets/image/generate-jokes.jpeg",
       "title": "Generate Random Jokes",
-      "desc": "Membuat aplikasi untuk menghasilkan kalimat lelucon acak dengan memanfaatkan penggunaan API random lelucon untuk menghasilkan kalimat lelucon secara acak.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/generate-random-jokes",
       "demo": "https://pauluskelvinwiranata.github.io/generate-random-jokes/"
@@ -203,7 +171,6 @@
     {
       "image": "assets/image/validasi-formulir.jpeg",
       "title": "Validasi Formulir",
-      "desc": "Membuat aplikasi untuk menghasilkan kalimat lelucon acak dengan memanfaatkan penggunaan API random lelucon untuk menghasilkan kalimat lelucon secara acak.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/validasi-formulir",
       "demo": "https://pauluskelvinwiranata.github.io/validasi-formulir/"
@@ -211,7 +178,6 @@
 	{
       "image": "assets/image/paint.jpeg",
       "title": "Paint",
-      "desc": "",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/paint",
       "demo": "https://pauluskelvinwiranata.github.io/paint/"
@@ -219,7 +185,6 @@
 	{
       "image": "assets/image/click-me.jpeg",
       "title": "Click Me",
-      "desc": "",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/click-me",
       "demo": "https://pauluskelvinwiranata.github.io/click-me/"
@@ -229,7 +194,6 @@
     {
       "image": "assets/image/spk.jpeg",
       "title": "Tugas Akhir / Skripsi",
-      "desc": "Membuat sistem pendukung keputusan dengan metode profile matching untuk menentukan besaran kenaikan gaji karyawan.",
       "type": "PHP & MySQL",
       "link": "https://academy.onlenkan.com"
     }
