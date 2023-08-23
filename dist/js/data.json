@@ -136,9 +136,17 @@
       "code": "https://github.com/pauluskelvinwiranata/tic-tac-toe",
       "demo": "https://pauluskelvinwiranata.github.io/tic-tac-toe/"
     },
+	{
+      "image": "assets/image/hex-color.jpeg",
+      "title": "Hex Color Generator",
+      "desc": "",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/hex-color",
+      "demo": "https://pauluskelvinwiranata.github.io/hex-color/"
+    },
     {
       "image": "assets/image/rgb-picker.jpeg",
-      "title": "RGB Picker",
+      "title": "RGB Color Generator",
       "desc": "Membuat aplikasi pemilih warna rgb menggunakan slider untuk menentukan nilai dari warna RGB yang akan digunakan, aplikasi yang dimaksud juga memiliki fitur copy nilai rgb nya.",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/rgb-picker",
