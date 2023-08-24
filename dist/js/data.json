@@ -78,20 +78,6 @@
       "demo": "https://pauluskelvinwiranata.github.io/tebak-kata-acak/"
     },
     {
-      "image": "assets/image/shorten-link.jpeg",
-      "title": "Persingkat Link",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/shorten-link",
-      "demo": "https://pauluskelvinwiranata.github.io/shorten-link/"
-    },
-    {
-      "image": "assets/image/calendar.jpeg",
-      "title": "Kalender",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/calendar",
-      "demo": "https://pauluskelvinwiranata.github.io/calendar/"
-    },
-    {
       "image": "assets/image/counting-word.jpeg",
       "title": "Word Counter",
       "type": "HTML, CSS, & JavaScript",
@@ -134,13 +120,6 @@
       "demo": "https://pauluskelvinwiranata.github.io/guess-number/"
     },
     {
-      "image": "assets/image/gunting-batu-kertas.jpeg",
-      "title": "Rock Paper Scissors",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/gunting-batu-kertas",
-      "demo": "https://pauluskelvinwiranata.github.io/gunting-batu-kertas/"
-    },
-    {
       "image": "assets/image/dark-mode-toggle.jpeg",
       "title": "Dark Mode Toggle",
       "type": "HTML, CSS, & JavaScript",
@@ -156,7 +135,7 @@
     },
     {
       "image": "assets/image/generate-quote.jpeg",
-      "title": "Generate Random Quotes",
+      "title": "Random Quotes Generator",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/generate-random-quotes",
       "demo": "https://pauluskelvinwiranata.github.io/generate-random-quotes/"
@@ -170,7 +149,7 @@
     },
     {
       "image": "assets/image/generate-jokes.jpeg",
-      "title": "Generate Random Jokes",
+      "title": "Random Jokes Generator",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/generate-random-jokes",
       "demo": "https://pauluskelvinwiranata.github.io/generate-random-jokes/"
