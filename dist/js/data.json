@@ -14,14 +14,14 @@
       "code": "https://github.com/pauluskelvinwiranata/kartu-ucapan-elektronik",
       "demo": "https://pauluskelvinwiranata.github.io/kartu-ucapan-elektronik/"
     },
-	{
+    {
       "image": "assets/image/kuis-sederhana.jpeg",
       "title": "Kuis Sederhana",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kuis-sederhana",
       "demo": "https://pauluskelvinwiranata.github.io/kuis-sederhana/"
     },
-	{
+    {
       "image": "assets/image/countdown-event.jpeg",
       "title": "Countdown Event",
       "type": "HTML, CSS, & JavaScript",
@@ -112,7 +112,7 @@
       "code": "https://github.com/pauluskelvinwiranata/tic-tac-toe",
       "demo": "https://pauluskelvinwiranata.github.io/tic-tac-toe/"
     },
-	{
+    {
       "image": "assets/image/hex-color.jpeg",
       "title": "Hex Color Generator",
       "type": "HTML, CSS, & JavaScript",
@@ -139,6 +139,13 @@
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/gunting-batu-kertas",
       "demo": "https://pauluskelvinwiranata.github.io/gunting-batu-kertas/"
+    },
+    {
+      "image": "assets/image/dark-mode-toggle.jpeg",
+      "title": "Dark Mode Toggle",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/dark-mode-toggle",
+      "demo": "https://pauluskelvinwiranata.github.io/dark-mode-toggle/"
     },
     {
       "image": "assets/image/generate-password.jpeg",
@@ -175,14 +182,14 @@
       "code": "https://github.com/pauluskelvinwiranata/validasi-formulir",
       "demo": "https://pauluskelvinwiranata.github.io/validasi-formulir/"
     },
-	{
+    {
       "image": "assets/image/paint.jpeg",
       "title": "Paint",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/paint",
       "demo": "https://pauluskelvinwiranata.github.io/paint/"
     },
-	{
+    {
       "image": "assets/image/click-me.jpeg",
       "title": "Click Me",
       "type": "HTML, CSS, & JavaScript",
