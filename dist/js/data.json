@@ -126,6 +126,13 @@
       "code": "https://github.com/pauluskelvinwiranata/dark-mode-toggle",
       "demo": "https://pauluskelvinwiranata.github.io/dark-mode-toggle/"
     },
+	 {
+      "image": "assets/image/faq.jpeg",
+      "title": "Accordion FAQ",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/faq-accordion",
+      "demo": "https://pauluskelvinwiranata.github.io/faq-accordion/"
+    },
     {
       "image": "assets/image/generate-password.jpeg",
       "title": "Random Password Generator",
