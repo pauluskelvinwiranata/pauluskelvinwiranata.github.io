@@ -28,6 +28,13 @@
       "code": "https://github.com/pauluskelvinwiranata/countdown-event",
       "demo": "https://pauluskelvinwiranata.github.io/countdown-event/"
     },
+	{
+      "image": "assets/image/kasir-sederhana.jpeg",
+      "title": "Aplikasi Kasir Sederhana",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/kasir-sederhana",
+      "demo": "https://pauluskelvinwiranata.github.io/kasir-sederhana/"
+    },
     {
       "image": "assets/image/aplikasi-manajemen-tugas.jpeg",
       "title": "Manajemen Tugas",
