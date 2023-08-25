@@ -43,25 +43,11 @@
       "demo": "https://pauluskelvinwiranata.github.io/manajemen-tugas/"
     },
     {
-      "image": "assets/image/kalkulator-kalori.jpeg",
-      "title": "Kalkulator Kalori",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/kalkulator-kalori",
-      "demo": "https://pauluskelvinwiranata.github.io/kalkulator-kalori/"
-    },
-    {
       "image": "assets/image/kalkulator-bmi.jpeg",
       "title": "Kalkulator BMI",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kalkulator-bmi",
       "demo": "https://pauluskelvinwiranata.github.io/kalkulator-bmi/"
-    },
-    {
-      "image": "assets/image/kalkulator-umur.jpeg",
-      "title": "Kalkulator Umur",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/calculator-age",
-      "demo": "https://pauluskelvinwiranata.github.io/calculator-age/"
     },
     {
       "image": "assets/image/kalkulator-berat-badan-ideal.jpeg",
@@ -104,13 +90,6 @@
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/tic-tac-toe",
       "demo": "https://pauluskelvinwiranata.github.io/tic-tac-toe/"
-    },
-    {
-      "image": "assets/image/hex-color.jpeg",
-      "title": "Hex Color Generator",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/hex-color",
-      "demo": "https://pauluskelvinwiranata.github.io/hex-color/"
     },
     {
       "image": "assets/image/rgb-picker.jpeg",
