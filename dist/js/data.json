@@ -63,6 +63,13 @@
       "code": "https://github.com/pauluskelvinwiranata/to-do-list",
       "demo": "https://pauluskelvinwiranata.github.io/to-do-list/"
     },
+	{
+      "image": "assets/image/captcha.jpeg",
+      "title": "Captcha",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/captcha",
+      "demo": "https://pauluskelvinwiranata.github.io/captcha/"
+    },
     {
       "image": "assets/image/tebak-kata-acak.jpeg",
       "title": "Tebak Kata Acak",
