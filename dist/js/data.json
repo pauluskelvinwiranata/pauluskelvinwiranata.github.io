@@ -71,11 +71,11 @@
       "demo": "https://pauluskelvinwiranata.github.io/to-do-list/"
     },
 	{
-      "image": "assets/image/captcha.jpeg",
-      "title": "Captcha",
+      "image": "assets/image/loader.jpeg",
+      "title": "Loader",
       "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/captcha",
-      "demo": "https://pauluskelvinwiranata.github.io/captcha/"
+      "code": "https://github.com/pauluskelvinwiranata/loader",
+      "demo": "https://pauluskelvinwiranata.github.io/loader/"
     },
     {
       "image": "assets/image/tebak-kata-acak.jpeg",
