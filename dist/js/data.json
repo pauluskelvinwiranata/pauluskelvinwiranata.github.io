@@ -2,10 +2,17 @@
   "simpleprojects": [
     {
       "image": "assets/image/kelola-keuangan.jpeg",
-      "title": "Aplikasi Pengelola Keuangan",
+      "title": "Aplikasi Pengelola Keuangan LocalStorage",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/kelola-keuangan",
       "demo": "https://pauluskelvinwiranata.github.io/kelola-keuangan/"
+    },
+	{
+      "image": "assets/image/crud.jpeg",
+      "title": "CRUD LocalStorage",
+      "type": "HTML, CSS, & JavaScript",
+      "code": "https://github.com/pauluskelvinwiranata/crud",
+      "demo": "https://pauluskelvinwiranata.github.io/crud/"
     },
     {
       "image": "assets/image/kartu-ucapan-elektronik.jpeg",
@@ -23,7 +30,7 @@
     },
     {
       "image": "assets/image/countdown-event.jpeg",
-      "title": "Countdown Event",
+      "title": "Countdown Event LocalStorage",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/countdown-event",
       "demo": "https://pauluskelvinwiranata.github.io/countdown-event/"
@@ -37,7 +44,7 @@
     },
     {
       "image": "assets/image/aplikasi-manajemen-tugas.jpeg",
-      "title": "Manajemen Tugas",
+      "title": "Manajemen Tugas LocalStorage",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/manajemen-tugas",
       "demo": "https://pauluskelvinwiranata.github.io/manajemen-tugas/"
@@ -58,7 +65,7 @@
     },
     {
       "image": "assets/image/to-do-list.jpeg",
-      "title": "To-do List",
+      "title": "To-do List LocalStorage",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/to-do-list",
       "demo": "https://pauluskelvinwiranata.github.io/to-do-list/"
