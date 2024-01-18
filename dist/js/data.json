@@ -1,20 +1,8 @@
 {
   "simpleprojects": [
-    {
-      "image": "assets/image/kelola-keuangan.jpeg",
-      "title": "Aplikasi Pengelola Keuangan LocalStorage",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/kelola-keuangan",
-      "demo": "https://pauluskelvinwiranata.github.io/kelola-keuangan/"
-    },
+  
 	{
-      "image": "assets/image/crud.jpeg",
-      "title": "CRUD LocalStorage",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/crud",
-      "demo": "https://pauluskelvinwiranata.github.io/crud/"
-    },
-    {
+
       "image": "assets/image/kartu-ucapan-elektronik.jpeg",
       "title": "Kartu Ucapan Elektronik",
       "type": "HTML, CSS, & JavaScript",
@@ -30,24 +18,10 @@
     },
     {
       "image": "assets/image/countdown-event.jpeg",
-      "title": "Countdown Event LocalStorage",
+      "title": "Countdown Event",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/countdown-event",
       "demo": "https://pauluskelvinwiranata.github.io/countdown-event/"
-    },
-	{
-      "image": "assets/image/kasir-sederhana.jpeg",
-      "title": "Aplikasi Kasir Sederhana",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/kasir-sederhana",
-      "demo": "https://pauluskelvinwiranata.github.io/kasir-sederhana/"
-    },
-    {
-      "image": "assets/image/aplikasi-manajemen-tugas.jpeg",
-      "title": "Manajemen Tugas LocalStorage",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/manajemen-tugas",
-      "demo": "https://pauluskelvinwiranata.github.io/manajemen-tugas/"
     },
     {
       "image": "assets/image/kalkulator-bmi.jpeg",
@@ -65,7 +39,7 @@
     },
     {
       "image": "assets/image/to-do-list.jpeg",
-      "title": "To-do List LocalStorage",
+      "title": "To-do List",
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/to-do-list",
       "demo": "https://pauluskelvinwiranata.github.io/to-do-list/"
@@ -112,13 +86,7 @@
       "code": "https://github.com/pauluskelvinwiranata/rgb-picker",
       "demo": "https://pauluskelvinwiranata.github.io/rgb-picker/"
     },
-    {
-      "image": "assets/image/guess-number.jpeg",
-      "title": "Tebak Angka",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/guess-number",
-      "demo": "https://pauluskelvinwiranata.github.io/guess-number/"
-    },
+
     {
       "image": "assets/image/dark-mode-toggle.jpeg",
       "title": "Dark Mode Toggle",
@@ -132,55 +100,6 @@
       "type": "HTML, CSS, & JavaScript",
       "code": "https://github.com/pauluskelvinwiranata/faq-accordion",
       "demo": "https://pauluskelvinwiranata.github.io/faq-accordion/"
-    },
-    {
-      "image": "assets/image/generate-password.jpeg",
-      "title": "Random Password Generator",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/random-password-generator",
-      "demo": "https://pauluskelvinwiranata.github.io/random-password-generator/"
-    },
-    {
-      "image": "assets/image/generate-quote.jpeg",
-      "title": "Random Quotes Generator",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/generate-random-quotes",
-      "demo": "https://pauluskelvinwiranata.github.io/generate-random-quotes/"
-    },
-    {
-      "image": "assets/image/generate-qrcode.jpeg",
-      "title": "Generate QR Code",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/generate-qrcode",
-      "demo": "https://pauluskelvinwiranata.github.io/generate-qrcode/"
-    },
-    {
-      "image": "assets/image/generate-jokes.jpeg",
-      "title": "Random Jokes Generator",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/generate-random-jokes",
-      "demo": "https://pauluskelvinwiranata.github.io/generate-random-jokes/"
-    },
-    {
-      "image": "assets/image/validasi-formulir.jpeg",
-      "title": "Validasi Formulir",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/validasi-formulir",
-      "demo": "https://pauluskelvinwiranata.github.io/validasi-formulir/"
-    },
-    {
-      "image": "assets/image/paint.jpeg",
-      "title": "Paint",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/paint",
-      "demo": "https://pauluskelvinwiranata.github.io/paint/"
-    },
-    {
-      "image": "assets/image/click-me.jpeg",
-      "title": "Click Me",
-      "type": "HTML, CSS, & JavaScript",
-      "code": "https://github.com/pauluskelvinwiranata/click-me",
-      "demo": "https://pauluskelvinwiranata.github.io/click-me/"
     }
   ],
   "complexprojects": [
