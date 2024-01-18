@@ -104,10 +104,16 @@
   ],
   "complexprojects": [
     {
-      "image": "assets/image/spk.jpeg",
-      "title": "Tugas Akhir / Skripsi",
+      "image": "assets/image/dss-pm.jpeg",
+      "title": "DSS Profile Matching",
       "type": "PHP & MySQL",
-      "link": "https://academy.onlenkan.com"
+      "link": ""
+    },
+    {
+      "image": "assets/image/voting.jpeg",
+      "title": "E-Voting",
+      "type": "PHP & MySQL",
+      "link": ""
     }
   ]
 }
