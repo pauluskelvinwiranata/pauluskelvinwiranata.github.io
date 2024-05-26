@@ -6,25 +6,17 @@ Hello, my name is **Paulus Kelvin Wiranata**. I am 22 years old. My passion for 
 
 I am deeply committed to ensuring a seamless user experience, robust architecture, and high code quality in everything I create. I am enthusiastic about the intersection of technology and creativity, and I thrive on challenges that allow me to innovate and grow.
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
-- 🌐 **Frontend:**
-  - HTML
-  - CSS
-  - JavaScript
-  - jQuery
-  - Bootstrap
-  - Tailwind CSS
-- 🛠️ **Backend:**
-  - Laravel
-  - PHP
-  - Node.js
-- 💾 **Database:**
-  - MySQL
-- 🔧 **Tools:**
-  - Git
+| Category         | Technologies                           |
+|------------------|----------------------------------------|
+| 🌐 **Frontend** | HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS |
+| 🛠️ **Backend**  | Laravel, PHP, Node.js                 |
+| 💾 **Database** | MySQL                                  |
+| 🔧 **Tools**    | Git                                    |
 
-## 📊 Facts
+
+### 📊 Facts
 
 Here are some facts about me:
 
@@ -34,7 +26,7 @@ Here are some facts about me:
 - 💻 **PHP is my favorite programming language**
 - 🧹 **Enthusiastic about writing clean and maintainable code**
 
-## 📬 Get in Touch
+### 📬 Get in Touch
 
 Feel free to reach out to me if you have any questions, ideas, or collaboration opportunities. I am always open to connecting with like-minded individuals and exploring new possibilities.
 
