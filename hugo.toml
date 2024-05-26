@@ -5,12 +5,9 @@ title = 'Paulus Kelvin Wiranata'
 [taxonomies]
 tag = 'tags'
 
-# Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
-
 [params]
 # Appearance settings
-theme = 'auto'
+theme = 'light'
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi! 👋'
@@ -60,8 +57,8 @@ name = "posts"
 url = "/posts"
 
 [[params.menu]]
-name = "portfolio"
-url = "/portfolio"
+name = "portfolios"
+url = "/portfolios"
 
 [[params.menu]]
 name = "tags"
