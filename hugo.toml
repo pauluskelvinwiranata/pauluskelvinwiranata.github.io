@@ -1,8 +1,83 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'typo'
+title = 'Paulus Kelvin Wiranata'
 
-[module]
-[module.hugoVersion]
-extended = false
-min = "0.116.0"
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Appearance settings
+theme = 'auto'
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hi! 👋'
+homeIntroContent = """
+Welcome to my personal website! Here you can explore my works, including my portfolio and blog.
+
+I enjoy creating web projects and writing blog posts about various topics. Feel free to browse through my latest web projects and read my blog to get insights into my interests and experiences.
+
+"""
+
+# Lists parameters
+paginationSize = 5
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/paulus-kelvin-wiranata"
+
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/paul.uskelvinwiranata/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/pauluskelvinwiranata"
+
+[[params.social]]
+name = "x"
+url = "https://x.com/@KelvinPaul76075"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "portfolio"
+url = "/portfolio"
+
+[[params.menu]]
+name = "tags"
+url = "/tags"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
