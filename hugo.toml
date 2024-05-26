@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Paulus Kelvin Wiranata'
+title = 'Paul'
 
 [taxonomies]
 tag = 'tags'
