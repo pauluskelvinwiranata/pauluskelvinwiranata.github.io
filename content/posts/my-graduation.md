@@ -6,9 +6,8 @@ summary = "Graduation from Widya Dharma University Pontianak"
 readTime = true
 autonumber = false
 math = true
-tags = ["graduation", "commencement"]
+tags = ["graduation"]
 showTags = true
-hideBackToTop = false
 +++
 
 ## 🎓 Graduation from Widya Dharma University Pontianak 🎓

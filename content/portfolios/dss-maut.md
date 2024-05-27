@@ -1,11 +1,13 @@
 +++
 title = 'Decision Support System Using Multi Attribute Utility Theory (MAUT)'
-date = 2024-05-26T11:11:21+07:00
+date = 2024-05-27T19:10:28+07:00
 draft = false
 summary = "A dynamic web-based Decision Support System application utilizing the Multi Attribute Utility Theory (MAUT) method for various case studies."
+tags = ["web application"]
+showTags = true
 +++
 
-![Dynamic Web-based Decision Support System](/images/portfolios/dss-maut/dss-maut.png)
+![DSS MAUT](/images/portfolios/dss-maut/dss-maut.png)
 
 ### 🌟 Key Features 🌟
 

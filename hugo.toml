@@ -53,12 +53,12 @@ name = "about"
 url = "/about"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
-
-[[params.menu]]
 name = "portfolios"
 url = "/portfolios"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
 
 [[params.menu]]
 name = "tags"
