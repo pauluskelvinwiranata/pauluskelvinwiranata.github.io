@@ -9,9 +9,9 @@ summary = "Smart Money is a web-based app for managing personal finances, featur
 
 ### Key Features
 
-"Smart Money" is a web-based application designed to help users manage their personal finances, including income and expenses. The application offers the following features:
+Smart Money is a web-based application designed to help users manage their personal finances, including income and expenses. The application offers the following features:
 
-### User Features
+**User Features**
 
 - Allows new users to register and create a new account.
 - Allows users to log into the system with secure credentials.

@@ -9,9 +9,9 @@ summary = "A dynamic web-based Guest Book application for managing guest lists a
 
 ### Key Features
 
-The dynamic web-based Guest Book application provides administrators with tools to manage guest lists and entries efficiently. The key features include:
+The dynamic web-based Guest Book application provides administrators with tools to manage guest lists and entries efficiently. The key features include :
 
-### Admin Features
+**Admin Features**
 
 - Allows administrators to access the system securely.
 - Enables administrators to add, edit, and delete guest book entries.

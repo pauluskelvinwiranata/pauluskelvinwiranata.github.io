@@ -9,9 +9,9 @@ summary = "A dynamic web-based Decision Support System application utilizing the
 
 ### Key Features
 
-The dynamic web-based Decision Support System application using the **Multi Attribute Utility Theory (MAUT)** method offers various features designed to facilitate the decision-making process. These features are divided into two main categories: **Admin** and **User**.
+The dynamic web-based Decision Support System application using the Multi Attribute Utility Theory (MAUT) method offers various features designed to facilitate the decision-making process. These features are divided into two main categories :
 
-### Admin Features
+**Admin Features**
 
 - Allows administrators to access the system with secure credentials.
 - Manage the criteria used in the decision-making process.
@@ -25,7 +25,7 @@ The dynamic web-based Decision Support System application using the **Multi Attr
 - Allows administrators to update their profile information.
 - Securely log out of the system after completing tasks.
 
-### User Features
+**User Features**
 
 - Allows users to access the system with secure credentials.
 - Perform decision calculations using the MAUT method to assist users in decision-making.
