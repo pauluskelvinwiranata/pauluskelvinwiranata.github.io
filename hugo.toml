@@ -45,24 +45,20 @@ url = "https://x.com/@KelvinPaul76075"
 
 # Main menu pages
 [[params.menu]]
-name = "home"
+name = "Home"
 url = "/"
 
 [[params.menu]]
-name = "about"
+name = "About"
 url = "/about"
 
 [[params.menu]]
-name = "portfolios"
+name = "Portfolios"
 url = "/portfolios"
 
 [[params.menu]]
-name = "posts"
+name = "Posts"
 url = "/posts"
-
-[[params.menu]]
-name = "tags"
-url = "/tags"
 
 # Syntax highligth on code blocks
 [markup]

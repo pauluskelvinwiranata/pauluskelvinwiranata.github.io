@@ -2,9 +2,15 @@
 
 img {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
 }
 
 .menu {
     display: flex;
     flex-wrap: wrap;
+    gap: 6px;
+}
+
+.menu-link {
+    text-decoration: none;
 }
