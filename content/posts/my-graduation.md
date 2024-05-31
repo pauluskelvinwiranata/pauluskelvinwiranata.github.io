@@ -1,39 +1,42 @@
 +++
-title = "My Graduation"
+title = "Wisuda Saya"
 date = 2023-10-31T17:19:36+07:00
 draft = false
-summary = "Graduation from Widya Dharma University Pontianak"
+summary = "Wisuda dari Universitas Widya Dharma Pontianak."
 readTime = true
 autonumber = false
 math = true
+toc = false
+language = "id"
 +++
 
-## Graduation from Widya Dharma University Pontianak
+### Wisuda dari Universitas Widya Dharma Pontianak
 
-Today is a very special day, because on **October 31, 2023**, at **Qubu Resort**, I earned my bachelor's degree in Information Systems from Widya Dharma University Pontianak.
+Hari ini adalah hari yang sangat istimewa, karena pada **31 Oktober 2023**, di **Qubu Resort**, saya meraih gelar sarjana Sistem Informasi dari Universitas Widya Dharma Pontianak.
 
-### Preparation
+### Persiapan
 
-Since morning, I have been feeling a mix of nervousness and excitement. I made sure to wear my suit and gown properly to look neat and presentable for this prestigious event.
+Sejak pagi, saya merasa campuran antara gugup dan bersemangat. Saya memastikan untuk mengenakan setelan dan toga dengan rapi agar terlihat pantas untuk acara bergengsi ini.
 
-### Ceremony
+### Upacara
 
-The event began with warm greetings from the speakers and university leaders. Their words were meaningful and provided new motivation for us graduates to face the future.
+Acara dimulai dengan sambutan hangat dari para pembicara dan pimpinan universitas. Kata-kata mereka sangat berarti dan memberikan motivasi baru bagi kami para lulusan untuk menghadapi masa depan.
 
-### Graduation Procession
+### Prosesi Wisuda
 
-After the greetings, we graduates entered the procession to receive our degrees one by one. The feeling was a mix of pride, emotion, and a bit of nervousness. But finally, I received my degree with deep gratitude, even graduating with honors, **Cum Laude**!
+Setelah sambutan, kami para lulusan mengikuti prosesi untuk menerima gelar kami satu per satu. Perasaannya campuran antara bangga, emosional, dan sedikit gugup. Akhirnya, saya menerima gelar saya dengan rasa syukur yang dalam, bahkan lulus dengan predikat **Cum Laude**!
 
-### Group Photos
+### Foto Bersama
 
-Of course, after the ceremony, we captured these beautiful moments with group photos with friends, family, and lecturers. These photos will be treasured memories that I will always remember.
+Tentu saja, setelah upacara, kami mengabadikan momen indah ini dengan foto bersama teman-teman, keluarga, dan dosen. Foto-foto ini akan menjadi kenangan berharga yang akan selalu saya ingat.
 
-### Hopes
+### Harapan
 
-With the degree I have obtained, I hope to apply the knowledge and skills I have acquired during my studies to benefit society and achieve my dreams in the future.
+Dengan gelar yang telah saya peroleh, saya berharap dapat menerapkan ilmu dan keterampilan yang saya dapat selama studi untuk memberi manfaat bagi masyarakat dan mencapai impian saya di masa depan.
 
-### Gratitude
+### Terima Kasih
 
-Finally, I want to thank all the lecturers, staff, friends, and family who have supported me throughout this educational journey. Without you, this achievement would not have been possible.
+Akhirnya, saya ingin mengucapkan terima kasih kepada semua dosen, staf, teman-teman, dan keluarga yang telah mendukung saya selama perjalanan pendidikan ini. Tanpa kalian, pencapaian ini tidak akan mungkin tercapai.
 
-In the end, this graduation is not just about receiving a degree, but also about the unforgettable journey and experiences. I am grateful to be part of Widya Dharma University Pontianak and to celebrate this achievement with everyone I love. Thank you!
+Pada akhirnya, wisuda ini bukan hanya tentang menerima gelar, tetapi juga tentang perjalanan dan pengalaman yang tak terlupakan. Saya bersyukur menjadi bagian dari Universitas Widya Dharma Pontianak dan merayakan pencapaian ini dengan semua orang yang saya cintai. Terima kasih!
+

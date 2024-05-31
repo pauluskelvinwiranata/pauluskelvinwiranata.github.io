@@ -28,6 +28,18 @@
       &nbsp; · &nbsp;
       {{ .ReadingTime }} min read
       {{end }}
+      
+      {{ if .Param "language" }}
+      &nbsp; · &nbsp;
+      <span>
+        {{ $lang := .Param "language" }}
+        {{ if eq $lang "id" }}Bahasa Indonesia
+        {{ else if eq $lang "en" }}English
+        {{ else }}{{ $lang }}
+        {{ end }}
+      </span>
+      {{ end }}
+
     </p>
 
   </div>

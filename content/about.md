@@ -8,10 +8,31 @@ I am committed to seamless user experiences, solid architecture, and high code q
 
 ### Tech Stack
 
-- **Frontend :** HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS
-- **Backend :** Laravel, PHP, Node.js
-- **Database :** MySQL
-- **Tools :** Git
+```
+{
+  "Frontend": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "jQuery",
+    "Bootstrap",
+    "Tailwind CSS"
+  ],
+  "Backend": [
+    "Laravel",
+    "PHP",
+    "Node.js"
+  ],
+  "Database": [
+    "MySQL"
+  ],
+  "Tools": [
+    "Git"
+  ]
+}
+
+```
+
 
 ### Facts
 
