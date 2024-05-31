@@ -8,28 +8,38 @@ language = "id"
 
 ![DSS MAUT](/images/portfolios/dss-maut/dss-maut.png)
 
-Aplikasi Sistem Pendukung Keputusan berbasis web yang dinamis menggunakan metode Multi Attribute Utility Theory (MAUT) menawarkan berbagai fitur yang dirancang untuk memfasilitasi proses pengambilan keputusan. Fitur-fitur ini dibagi menjadi dua kategori utama:
+## Sistem Pendukung Keputusan Menggunakan Multi Attribute Utility Theory (MAUT)
 
-**Fitur Admin**
+Aplikasi **Sistem Pendukung Keputusan berbasis web** yang dinamis menggunakan metode **Multi Attribute Utility Theory (MAUT)** menawarkan berbagai fitur yang dirancang untuk memfasilitasi proses pengambilan keputusan. Fitur-fitur ini dibagi menjadi dua kategori utama:
 
-- Memungkinkan administrator mengakses sistem.
-- Mengelola kriteria yang digunakan dalam proses pengambilan keputusan.
-- Mengelola sub-kriteria dengan fungsi yang sama seperti kriteria.
-- Menambahkan, memodifikasi, menghapus, dan melihat alternatif yang tersedia.
-- Mengelola nilai yang diberikan kepada setiap alternatif berdasarkan kriteria yang ditentukan.
-- Melakukan perhitungan keputusan menggunakan metode MAUT untuk menentukan alternatif terbaik.
-- Mengelola akun admin lain dalam sistem, termasuk menambahkan, memodifikasi, dan menghapus akun admin.
-- Mengelola akun pengguna biasa, memungkinkan administrator untuk menambahkan, memodifikasi, atau menghapus pengguna.
-- Memungkinkan administrator untuk mengonfigurasi berbagai aspek situs web, seperti nama aplikasi, deskripsi, dan informasi hak cipta.
-- Memungkinkan administrator memperbarui informasi profil mereka.
-- Keluar dari sistem.
+### Fitur Admin
 
-**Fitur Pengguna**
+- **Akses Sistem**: Memungkinkan administrator mengakses sistem.
+- **Manajemen Kriteria**: Mengelola kriteria yang digunakan dalam proses pengambilan keputusan.
+- **Manajemen Sub-kriteria**: Mengelola sub-kriteria dengan fungsi yang sama seperti kriteria.
+- **Manajemen Alternatif**: Menambahkan, memodifikasi, menghapus, dan melihat alternatif yang tersedia.
+- **Manajemen Nilai Alternatif**: Mengelola nilai yang diberikan kepada setiap alternatif berdasarkan kriteria yang ditentukan.
+- **Perhitungan Keputusan**: Melakukan perhitungan keputusan menggunakan metode MAUT untuk menentukan alternatif terbaik.
+- **Manajemen Akun Admin**: Mengelola akun admin lain dalam sistem, termasuk menambahkan, memodifikasi, dan menghapus akun admin.
+- **Manajemen Akun Pengguna**: Mengelola akun pengguna biasa, memungkinkan administrator untuk menambahkan, memodifikasi, atau menghapus pengguna.
+- **Konfigurasi Situs**: Mengonfigurasi berbagai aspek situs web, seperti nama aplikasi, deskripsi, dan informasi hak cipta.
+- **Pembaruan Profil**: Memungkinkan administrator memperbarui informasi profil mereka.
+- **Logout**: Keluar dari sistem.
 
-- Memungkinkan pengguna mengakses sistem.
-- Melakukan perhitungan keputusan menggunakan metode MAUT untuk membantu pengguna dalam pengambilan keputusan.
-- Mencetak hasil perhitungan untuk referensi atau dokumentasi lebih lanjut.
-- Memungkinkan pengguna memperbarui informasi profil mereka.
-- Keluar dari sistem.
+### Fitur Pengguna
+
+- **Akses Sistem**: Memungkinkan pengguna mengakses sistem.
+- **Perhitungan Keputusan**: Melakukan perhitungan keputusan menggunakan metode MAUT untuk membantu pengguna dalam pengambilan keputusan.
+- **Cetak Hasil**: Mencetak hasil perhitungan untuk referensi atau dokumentasi lebih lanjut.
+- **Pembaruan Profil**: Memungkinkan pengguna memperbarui informasi profil mereka.
+- **Logout**: Keluar dari sistem.
+
+### Teknologi
+
+Aplikasi ini dibangun dengan menggunakan teknologi utama sebagai berikut:
+
+- **Bootstrap**
+- **PHP**
+- **MySQL**
 
 Aplikasi ini dirancang untuk memberikan fleksibilitas dan kemudahan bagi baik administrator maupun pengguna dalam mengelola data dan proses pengambilan keputusan, menjadikannya alat yang efisien dan efektif untuk berbagai studi kasus.
