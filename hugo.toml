@@ -10,7 +10,7 @@ tag = 'tags'
 theme = 'light'
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi! 👋'
+homeIntroTitle = 'Hi, Paul here! 👋'
 homeIntroContent = """
 Welcome to my personal website! Here you can explore my works, including my portfolio and blog.
 
