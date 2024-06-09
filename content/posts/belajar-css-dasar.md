@@ -36,7 +36,9 @@ Ada beberapa cara untuk menyematkan CSS ke dalam dokumen HTML Anda. Cara yang pa
 ```
 
 ```css
-<!--file: style.css --> h1 {
+<!--file: style.css --> 
+
+h1 {
   font-size: 20px;
   color: yellow;
   margin-bottom: 5px;
