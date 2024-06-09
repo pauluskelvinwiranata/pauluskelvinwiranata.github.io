@@ -161,6 +161,7 @@ footer a {
   margin-bottom: .5rem;
   display: flex;
   align-items: baseline;
+  gap: 20px;
 }
 
 .tag-line {

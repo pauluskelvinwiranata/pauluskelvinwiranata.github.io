@@ -2,36 +2,22 @@
 title = "About"
 +++
 
-Hello, my name is **Paulus Kelvin Wiranata**. I am 22 years old. I love turning ideas into reality with beautiful interfaces. Based in **Indonesia**, I am eager to contribute to the tech scene here.
+Hello, my name is **Paulus Kelvin Wiranata**. I am 22 years old. I love turning ideas into reality with beautiful interfaces.
 
 I am committed to seamless user experiences, solid architecture, and high code quality. I enjoy the intersection of technology and creativity, and I thrive on challenges that let me innovate and grow.
 
 ### Tech Stack
-
-```
-{
-  "Frontend": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "jQuery",
-    "Bootstrap",
-    "Tailwind CSS"
-  ],
-  "Backend": [
-    "Laravel",
-    "PHP",
-    "Node.js"
-  ],
-  "Database": [
-    "MySQL"
-  ],
-  "Tools": [
-    "Git"
-  ]
-}
-
-```
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Bootstrap
+- Tailwind CSS
+- Laravel
+- PHP
+- Node.js
+- MySQL
+- Git
 
 
 ### Facts

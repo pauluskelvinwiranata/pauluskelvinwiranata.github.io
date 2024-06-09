@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ partial "breadcrumbs.html" . }}
+<h1>{{ .Title }}</h1>
+<div class="card-container">
+  {{ range .Pages }}
+  <div class="card">
+    {{ if .Params.image }}
+    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+    {{ end }}
+    <div class="card-content">
+      <h5>{{ .Title }}</h5>
+      <p>{{ .Summary }}</p>
+      {{ if .Params.technology }}
+      <div class="badges">
+        {{ range .Params.technology }}
+        <span class="badge">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

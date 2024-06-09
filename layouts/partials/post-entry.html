@@ -1,11 +1,9 @@
 <div class="post-line">
 
-    {{ $dateFormat := "2 Jan 2006"}}
-    {{ with .Site.Params.listDateFormat }}
-    {{ $dateFormat = .}}
-    {{ end }}
 
-    <p class="line-date">{{ .Date.Format $dateFormat }} </p>
+
+    <p class="line-language">{{ .Params.language }}</p>
+
 
     <div>
         <p class="line-title">
@@ -14,8 +12,5 @@
             </a>
         </p>
 
-        {{ if .Site.Params.listSummaries }}
-        <p class="line-summary"> {{ .Summary }} </p>
-        {{ end }}
     </div>
 </div>
