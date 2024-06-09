@@ -1,15 +1,17 @@
 +++
-title = 'Pengantar Pemrograman PHP Dasar'
+title = 'Pengenalan Dasar PHP Untuk Pemula'
 date = 2024-06-09T12:09:41+07:00
 draft = false
 language = 'ID'
 math = true
 readTime = true
+autonumber = true
+toc = true
 +++
 
 PHP (Hypertext Preprocessor) adalah bahasa pemrograman server-side yang dirancang khusus untuk pengembangan web. PHP dapat disisipkan ke dalam HTML dan umumnya digunakan untuk mengelola konten dinamis di situs web. Artikel ini akan membahas dasar-dasar pemrograman PHP untuk pemula.
 
-### 1. Instalasi PHP
+## Instalasi PHP
 
 Sebelum kita mulai menulis kode PHP, kita perlu menginstal PHP di komputer kita. Ada beberapa cara untuk menginstal PHP, tergantung pada sistem operasi yang digunakan:
 
@@ -17,7 +19,7 @@ Sebelum kita mulai menulis kode PHP, kita perlu menginstal PHP di komputer kita.
 - **MacOS**: Anda bisa menginstal MAMP atau menggunakan Homebrew (`brew install php`).
 - **Linux**: Anda bisa menggunakan package manager seperti `apt` untuk Debian/Ubuntu (`sudo apt-get install php`) atau `yum` untuk CentOS (`sudo yum install php`).
 
-### 2. Struktur Dasar File PHP
+## Struktur Dasar File PHP
 
 File PHP memiliki ekstensi `.php` dan dapat menyisipkan kode PHP di dalam tag `<?php ... ?>`. Berikut adalah contoh struktur dasar file PHP:
 
@@ -37,7 +39,7 @@ File PHP memiliki ekstensi `.php` dan dapat menyisipkan kode PHP di dalam tag `<
 </html>
 ```
 
-### 3. Sintaks Dasar PHP
+## Sintaks Dasar PHP
 
 Variabel di PHP diawali dengan tanda $ diikuti dengan nama variabel. PHP adalah bahasa yang tidak memerlukan deklarasi tipe variabel, sehingga Anda bisa langsung menetapkan nilai ke variabel.
 
@@ -49,31 +51,149 @@ echo "Nama: $nama, Umur: $umur";
 ?>
 ```
 
-### 4. Tipe Data
+## Tipe Data
 
 PHP mendukung beberapa tipe data, termasuk:
 
-| **Tipe Data** | **Deskripsi**                                  |
-|---------------|-------------------------------------------------|
-| String        | Teks, diapit dengan tanda kutip.                |
-| Integer       | Bilangan bulat.                                 |
-| Float         | Bilangan desimal.                               |
-| Boolean       | `true` atau `false`.                            |
-| Array         | Kumpulan nilai.                                 |
-| Object        | Instance dari kelas.                            |
+| **Tipe Data** | **Deskripsi**                                             |
+| ------------- | --------------------------------------------------------- |
+| String        | Teks, diapit dengan tanda kutip.                          |
+| Integer       | Bilangan bulat.                                           |
+| Float         | Bilangan desimal.                                         |
+| Boolean       | `true` atau `false`.                                      |
+| Array         | Kumpulan nilai.                                           |
+| Object        | Instance dari kelas.                                      |
 | NULL          | Tipe khusus yang hanya memiliki satu nilai, yaitu `NULL`. |
 
-### 5. Operator
+## Operator
 
 PHP mendukung berbagai macam operator:
 
-| **Jenis Operator** | **Operator**             |
-|--------------------|--------------------------|
-| Aritmatika         | `+`, `-`, `*`, `/`, `%`  |
+| **Jenis Operator** | **Operator**                     |
+| ------------------ | -------------------------------- |
+| Aritmatika         | `+`, `-`, `*`, `/`, `%`          |
 | Perbandingan       | `==`, `!=`, `>`, `<`, `>=`, `<=` |
-| Logika             | `&&`, `||`, `!`          |
+| Logika             | `&&`, `\|\|`, `!`                |
 
-### 6. Kontrol Alur
+```php
+<?php
+// Operator Aritmatika
+
+// Penjumlahan
+$angka1 = 10;
+$angka2 = 5;
+$hasilPenjumlahan = $angka1 + $angka2;
+echo "Penjumlahan: $angka1 + $angka2 = $hasilPenjumlahan<br>";
+
+// Pengurangan
+$angka3 = 8;
+$angka4 = 3;
+$hasilPengurangan = $angka3 - $angka4;
+echo "Pengurangan: $angka3 - $angka4 = $hasilPengurangan<br>";
+
+// Perkalian
+$angka5 = 6;
+$angka6 = 4;
+$hasilPerkalian = $angka5 * $angka6;
+echo "Perkalian: $angka5 * $angka6 = $hasilPerkalian<br>";
+
+// Pembagian
+$angka7 = 15;
+$angka8 = 3;
+$hasilPembagian = $angka7 / $angka8;
+echo "Pembagian: $angka7 / $angka8 = $hasilPembagian<br>";
+
+// Modulus (Sisa Pembagian)
+$angka9 = 10;
+$angka10 = 3;
+$sisaPembagian = $angka9 % $angka10;
+echo "Sisa Pembagian: $angka9 % $angka10 = $sisaPembagian<br>";
+?>
+```
+
+```php
+<?php
+// Operator Perbandingan
+
+$angka1 = 10;
+$angka2 = 5;
+
+// Sama dengan (==)
+if ($angka1 == $angka2) {
+    echo "$angka1 sama dengan $angka2<br>";
+} else {
+    echo "$angka1 tidak sama dengan $angka2<br>";
+}
+
+// Tidak sama dengan (!=)
+if ($angka1 != $angka2) {
+    echo "$angka1 tidak sama dengan $angka2<br>";
+} else {
+    echo "$angka1 sama dengan $angka2<br>";
+}
+
+// Lebih besar dari (>)
+if ($angka1 > $angka2) {
+    echo "$angka1 lebih besar dari $angka2<br>";
+} else {
+    echo "$angka1 tidak lebih besar dari $angka2<br>";
+}
+
+// Lebih kecil dari (<)
+if ($angka1 < $angka2) {
+    echo "$angka1 lebih kecil dari $angka2<br>";
+} else {
+    echo "$angka1 tidak lebih kecil dari $angka2<br>";
+}
+
+// Lebih besar atau sama dengan (>=)
+if ($angka1 >= $angka2) {
+    echo "$angka1 lebih besar atau sama dengan $angka2<br>";
+} else {
+    echo "$angka1 tidak lebih besar atau sama dengan $angka2<br>";
+}
+
+// Lebih kecil atau sama dengan (<=)
+if ($angka1 <= $angka2) {
+    echo "$angka1 lebih kecil atau sama dengan $angka2<br>";
+} else {
+    echo "$angka1 tidak lebih kecil atau sama dengan $angka2<br>";
+}
+?>
+```
+
+```php
+<?php
+// Operator Logika
+
+$nilai1 = true;
+$nilai2 = false;
+
+// Operator AND (&&)
+if ($nilai1 && $nilai2) {
+    echo "Kedua nilai bernilai benar<br>";
+} else {
+    echo "Salah satu atau kedua nilai salah<br>";
+}
+
+// Operator OR (||)
+if ($nilai1 || $nilai2) {
+    echo "Salah satu atau kedua nilai benar<br>";
+} else {
+    echo "Kedua nilai salah<br>";
+}
+
+// Operator NOT (!)
+if (!$nilai1) {
+    echo "Nilai 1 salah<br>";
+} else {
+    echo "Nilai 1 benar<br>";
+}
+?>
+
+```
+
+## Kontrol Alur
 
 PHP memiliki struktur kontrol alur yang umum seperti if, else, while, for, dan foreach.
 
@@ -114,7 +234,7 @@ foreach ($buah as $item) {
 ?>
 ```
 
-### 7. Fungsi
+## Fungsi
 
 Fungsi adalah blok kode yang bisa digunakan kembali. PHP memiliki banyak fungsi bawaan dan Anda juga bisa membuat fungsi sendiri.
 
@@ -135,7 +255,7 @@ echo tambah(5, 3); // Memanggil fungsi tambah dengan argumen 5 dan 3
 ?>
 ```
 
-### 8. Penanganan Formulir
+## Penanganan Formulir
 
 PHP sering digunakan untuk menangani data dari formulir HTML. Berikut contoh penanganan data formulir menggunakan metode POST:
 
@@ -143,16 +263,16 @@ PHP sering digunakan untuk menangani data dari formulir HTML. Berikut contoh pen
 <!-- file: form.html -->
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <title>Formulir PHP</title>
-</head>
-<body>
+  </head>
+  <body>
     <form action="proses.php" method="post">
-        Nama: <input type="text" name="nama"><br>
-        Umur: <input type="text" name="umur"><br>
-        <input type="submit" value="Submit">
+      Nama: <input type="text" name="nama" /><br />
+      Umur: <input type="text" name="umur" /><br />
+      <input type="submit" value="Submit" />
     </form>
-</body>
+  </body>
 </html>
 ```
 
@@ -166,7 +286,7 @@ echo "Nama: $nama, Umur: $umur";
 ?>
 ```
 
-### 9. Koneksi ke Database
+## Koneksi ke Database
 
 PHP sering digunakan untuk berinteraksi dengan database, terutama MySQL. Berikut contoh sederhana koneksi ke database MySQL dan mengambil data dari tabel:
 
@@ -201,17 +321,14 @@ $conn->close();
 ?>
 ```
 
-### 10. Kesimpulan
+## Rujukan Tambahan
 
-PHP adalah bahasa yang kuat dan fleksibel untuk pengembangan web. Dengan pemahaman dasar tentang sintaks, kontrol alur, fungsi, dan penanganan formulir, Anda sudah bisa mulai membuat aplikasi web sederhana. Selanjutnya, Anda bisa mempelajari topik yang lebih lanjut seperti Object-Oriented Programming (OOP), penggunaan framework PHP seperti Laravel, dan teknik keamanan web.
-
-
-
-
-
-
-
-
-
-
-
+| Sumber Daya                                                                    | Deskripsi                                                                                                                               |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [PHP.net](https://www.php.net/)                                                | Sumber daya resmi PHP dengan dokumentasi resmi, tutorial, dan referensi lengkap tentang PHP.                                            |
+| [W3Schools PHP Tutorial](https://www.w3schools.com/php/)                       | Tutorial interaktif untuk mempelajari dasar-dasar PHP, dengan latihan langsung di browser.                                              |
+| [PHP: The Right Way](https://phptherightway.com/)                              | Sumber daya komunitas yang menyediakan panduan pengembangan PHP dengan praktik terbaik.                                                 |
+| [PHP Manual](https://www.php.net/manual/en/)                                   | Dokumentasi resmi PHP yang mencakup semua fungsi dan fitur yang tersedia dalam PHP.                                                     |
+| [Udemy PHP Courses](https://www.udemy.com/courses/search/?q=php)               | Kursus PHP dari instruktur yang berpengalaman di platform pembelajaran online Udemy.                                                    |
+| YouTube                                                                        | Banyak tutorial PHP yang tersedia di YouTube, baik dari pembuat konten independen maupun saluran resmi platform pembelajaran online.    |
+| [Stack Overflow PHP Questions](https://stackoverflow.com/questions/tagged/php) | Platform tanya jawab yang populer di kalangan pengembang perangkat lunak, tempat Anda dapat mencari pertanyaan dan jawaban terkait PHP. |

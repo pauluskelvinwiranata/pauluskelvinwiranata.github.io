@@ -157,7 +157,7 @@ footer a {
 /* Posts list  */
 
 .post-line {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   display: flex;
   align-items: baseline;
   gap: 20px;
