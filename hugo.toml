@@ -58,8 +58,8 @@ name = "Portfolios"
 url = "/portfolios"
 
 [[params.menu]]
-name = "Posts"
-url = "/posts"
+name = "Blogs"
+url = "/blogs"
 
 # Syntax highligth on code blocks
 [markup]
