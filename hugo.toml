@@ -8,7 +8,7 @@ tag = 'tags'
 [params]
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi, Paul here! 👋'
+homeIntroTitle = 'Hi!'
 homeIntroContent = """
 Welcome to my personal website! Here you can explore my works, including my portfolio and blog.
 
