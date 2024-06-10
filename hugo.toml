@@ -6,8 +6,6 @@ title = 'Paul'
 tag = 'tags'
 
 [params]
-# Appearance settings
-theme = 'light'
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi, Paul here! 👋'
