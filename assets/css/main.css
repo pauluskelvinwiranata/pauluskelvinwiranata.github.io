@@ -10,6 +10,7 @@ body {
   padding-right: var(--main-padding);
   color: var(--content-primary);
   background: var(--background);
+  transition: background-color 0.3s ease;
 }
 
 .content {
@@ -341,6 +342,7 @@ footer a {
 .light .img-dark {
   display: none !important;
 }
+
 
 .img-small div {
   display: flex;

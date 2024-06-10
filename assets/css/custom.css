@@ -1,5 +1,11 @@
 /* Place custom css here */
 
+.header-content{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .menu {
   display: flex;
   flex-wrap: wrap;
@@ -18,7 +24,6 @@
 
 .card {
   background: #fff;
-  border: 1px solid #ddd;
   border-radius: 3px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
@@ -48,7 +53,7 @@
 
 .card p {
   margin-bottom: 0;
-  font-size: 11px;
+  font-size: 12px;
 }
 
 .card a {
@@ -71,9 +76,9 @@
 
 .badge {
   display: inline-block;
-  padding: 5px 10px;
+  padding: 4px 8px;
   background-color: #f0f0f0;
-  border-radius: 12px;
+  border-radius: 5px;
   font-size: 9px;
   white-space: nowrap;
 }
@@ -103,4 +108,16 @@
   padding: 2px 6px;
   font-size: 13px;
   width: max-content;
+}
+
+.dark .card {
+  background-color: #333;
+}
+
+.dark .badge {
+  color: #000;
+}
+
+.dark .line-language {
+  background-color: #333;
 }
