@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <div class="list-container">
 
     {{ partial "breadcrumbs.html" . }}
@@ -16,14 +15,31 @@
 
     {{ $paginator := .Paginate (.Pages) $paginationSize }}
 
+    {{ $currentYear := "" }}
     {{ range $index, $page := $paginator.Pages }}
+        {{ $postYear := $page.Date.Format "2006" }}
+        
+        {{ if ne $postYear $currentYear }}
+            {{ if ne $currentYear "" }}
+                </div>
+            {{ end }}
+            
+            <div class="year-group">
+                <h2>{{ $postYear }}</h2>
+            </div>
+            
+            {{ $currentYear = $postYear }}
+        {{ end }}
 
-    {{ if $tagsPage }}
-    {{ partial "tag-entry.html" $page}}
-    {{ else }}
-    {{ partial "post-entry.html" $page}}
+        {{ if $tagsPage }}
+            {{ partial "tag-entry.html" $page}}
+        {{ else }}
+            {{ partial "post-entry.html" $page}}
+        {{ end }}
     {{ end }}
 
+    {{ if ne $currentYear "" }}
+        </div>
     {{ end }}
 
     {{ partial "pagination-controls.html" $paginator}}

@@ -7,6 +7,7 @@ math = true
 readTime = true
 autonumber = true
 toc = true
+categories = ['Programming']
 +++
 
 PHP (Hypertext Preprocessor) adalah bahasa pemrograman server-side yang dirancang khusus untuk pengembangan web. PHP dapat disisipkan ke dalam HTML dan umumnya digunakan untuk mengelola konten dinamis di situs web. Artikel ini akan membahas dasar-dasar pemrograman PHP untuk pemula.

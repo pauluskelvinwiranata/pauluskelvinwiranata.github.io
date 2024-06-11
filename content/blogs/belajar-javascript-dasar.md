@@ -7,6 +7,7 @@ math = true
 readTime = true
 autonumber = true
 toc = true
+categories = ['Programming']
 +++
 
 ## Apa Itu JavaScript?
