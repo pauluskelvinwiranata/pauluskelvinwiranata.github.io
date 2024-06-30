@@ -10,10 +10,10 @@
     <div class="card-content">
       <h5>{{ .Title }}</h5>
       <p>{{ .Summary }}</p>
-      {{ if .Params.technology }}
+      {{ if .Params.tags }}
       <div class="badges">
-        {{ range .Params.technology }}
-        <span class="badge">{{ . }}</span>
+        {{ range .Params.tags }}
+        <span class="badge">#{{ . }}</span>
         {{ end }}
       </div>
       {{ end }}
