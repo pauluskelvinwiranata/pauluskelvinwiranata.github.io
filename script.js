@@ -28,3 +28,17 @@ function updateAge() {
 }
 
 updateAge();
+
+const startDate = new Date('2023-11-01');
+const now = new Date();
+const diffTime = Math.abs(now - startDate);
+const diffMonths = Math.floor(diffTime / (1000 * 60 * 60 * 24 * 30.44));
+const years = Math.floor(diffMonths / 12);
+const months = diffMonths % 12;
+
+let durationText = '';
+if (years > 0) durationText += `${years} year${years > 1 ? 's' : ''}`;
+if (months > 0) durationText += `${years > 0 ? ' and ' : ''}${months} month${months > 1 ? 's' : ''}`;
+if (durationText === '') durationText = 'less than a month';
+
+document.getElementById('serviceDuration').textContent = durationText;
